@@ -1,0 +1,6 @@
+[submodule "dist/Clubcritz-prod"]
+	path = dist/Clubcritz-prod
+	url = https://github.com/agdal/Clubcritz-prod.git
+[submodule "Clubcritz-prod"]
+	path = Clubcritz-prod
+	url = https://github.com/agdal/Clubcritz-prod.git
