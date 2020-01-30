@@ -5,7 +5,7 @@ export default class App extends Component {
 		const { username } = this.state;
 		return (
 			<div>
-				<h1>Test</h1>
+				<h1>Test 2</h1>
 			</div>
 		);
 	}
